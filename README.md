@@ -11,6 +11,10 @@ fieldset/legend y atributos de accesibilidad ARIA.
 - number, range, color, file
 - checkbox, radio, hidden
 - textarea, select (con optgroup)
+## Cómo ejecutar
+1. Clonar: `git clone https://github.com/WilliamBalaguera/balaguera-post2-u2`
+2. Abrir en VS Code → clic derecho en registro.html → Open with Live Server
+3. Navegar a `http://localhost:5500/registro.html`
 
 
 ## Capturas de pantalla
